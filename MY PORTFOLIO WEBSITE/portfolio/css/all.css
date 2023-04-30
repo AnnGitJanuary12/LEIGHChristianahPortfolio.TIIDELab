@@ -1,0 +1,94 @@
+.form-link{
+	font-family: tahoma;
+	font-size: 16px;
+	color:  white;
+	padding: 10px;
+	margin: 10px;
+	text-decoration: none;
+}
+.form-link:hover{
+	font-family: tahoma;
+	font-size: 16px;
+	color: yellow;
+	
+	padding: 10px;
+	border-radius: 10px 10px;
+	
+	text-decoration: none;
+}
+.container-menu{
+	background-color: #fff;
+}
+.con{
+	height: 900px;
+	background-color: #081319;
+	background-image: url("../images/ch.png");
+	padding: 20px;
+	margin-top: -20px;
+	background-size: 960px;
+	background-position: right;
+	background-repeat: no-repeat;
+
+}
+
+h1{
+	color: #fff;
+	font-family: tahoma;
+	font-size: 70px;
+	margin-top: 300px;
+	margin-left:30px ;
+}
+.part1{
+	width: 50%;
+}
+.lo{
+	width: 60%;
+}
+h3{
+	font-size: 17px;
+	padding: 2px;
+	font-family: tahoma;
+	color: #fff;
+	font-style: justify;
+
+	
+}
+.p, .ok{
+	background-color: #1D2225 ;
+	padding: 10px;
+	border-radius: 20px;
+	opacity: 10px;
+	box-shadow: 10px;
+}
+a{
+	text-decoration: none;
+
+}
+ul li{
+	color: #fff;
+	margin: 20px;
+	padding: 10px;
+	background-color: #1D2225 ;
+	font-size: 20px;
+	border-radius: 10px 10px;
+
+}
+ul li: hover{
+	color: #fff;
+	margin: 20px;
+	padding: 10px;
+	background-color: #121618  ;
+	font-size: 20px;
+
+
+}
+.sj{
+	background: #1A4D66; padding: 20px; color: #fff; margin:10px
+}
+.sj:hover{
+		background-color: #5A1A66 ;
+}
+
+#b{
+	background-color: #262327  ;padding: 13px;
+}
